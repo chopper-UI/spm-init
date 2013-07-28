@@ -1,3 +1,4 @@
 {
   "src/name.css": "src/{%= name %}.css"
+  "name.sublime-snippet": "{%= name %}.sublime-snippet"
 }
