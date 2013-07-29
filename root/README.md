@@ -13,13 +13,13 @@
 ### 默认
 
 ````html
-<div class="{%= family %}-{%= name %}">
+<div class="ui-{%= name %}">
 </div>
 ````
 
 ### 示例一
 
 ````html
-<div class="{%= family %}-{%= name %}">
+<div class="ui-{%= name %}">
 </div>
 ````
