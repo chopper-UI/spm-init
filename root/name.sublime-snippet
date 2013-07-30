@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-
-]]></content>
-    <tabTrigger>{%= family %}-ui-{%= name %}</tabTrigger>
-    <description>{%= family %} {%= name %}</description>
-    <!-- <scope>source.python</scope> -->
-</snippet>
